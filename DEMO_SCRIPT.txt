@@ -1,0 +1,11 @@
+NIRMAN AI — 90 SECOND DEMO
+
+0–10 sec: "NIRMAN AI monitors infrastructure projects and turns progress, schedule and cost signals into an early risk warning."
+
+10–30 sec: Show portfolio ranking and select a project. Point to risk score, original cost and expenditure.
+
+30–50 sec: Show "Why is this project risky?" and planned vs actual progress.
+
+50–75 sec: Switch to What-if Simulator. Increase schedule delay and cost escalation. Show the risk score rising.
+
+75–90 sec: Show the red warning and say: "This is the PoC. The next stage replaces prototype data with authorized monthly OCMS data and adds richer milestone-level intervention intelligence."
